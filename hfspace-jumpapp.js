@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         HF Space Jump To App-Site
+// @name         HF Space 跳转到独立 APP 页面 | HF Space Jump To App-Site
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  在 Hugging Face Space 页面添加跳转按钮，跳转到独立 App 页面
