@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         HF Space 跳转到独立 APP 页面 | HF Space Jump To App-Site
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      2.1
 // @description  在 Hugging Face Space 页面添加跳转按钮，跳转到独立 App 页面
 // @author       skydog221
 // @match        https://huggingface.co/spaces/*
 // @grant        none
-// @run-at     document-start
+// @run-at       document-start
+// @downloadURL https://update.greasyfork.org/scripts/550063/HF%20Space%20Jump%20To%20App-Site.user.js
+// @updateURL https://update.greasyfork.org/scripts/550063/HF%20Space%20Jump%20To%20App-Site.meta.js
 // ==/UserScript==
 
 (function () {
